@@ -26,5 +26,5 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-#Screenshot of completed webpage
-![image](https://user-images.githubusercontent.com/34629779/114872033-24fbf480-9db7-11eb-94ba-12591ad50eae.png)
+#screenshot preview of website
+![WebSitePreview](https://user-images.githubusercontent.com/34629779/114872425-9176f380-9db7-11eb-8f57-52f1670cc5c5.PNG)
