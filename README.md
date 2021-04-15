@@ -25,3 +25,6 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+
+#Screenshot of completed webpage
+![image](https://user-images.githubusercontent.com/34629779/114872033-24fbf480-9db7-11eb-94ba-12591ad50eae.png)
