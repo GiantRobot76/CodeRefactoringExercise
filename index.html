@@ -10,10 +10,14 @@
   <body>
     <header>
       <!-- Removed div tag with header class. Used semantic <header> tag and modified css file accordingly-->
-      <h1>Hori</h1>
-      <h1 class="seo">seo</h1>
-      <h1>n</h1>
-      <!--Rmoved non-semantic span tag. 3 h1 elements (one with class "seo" required for desired formatting)-->
+      <h1>
+        Hori
+        <h1 class="seo">
+          seo
+          <h1>n</h1>
+        </h1>
+      </h1>
+      <!--Rmoved non-semantic span tag. 3 h1 elements (one with class "seo") required for desired formatting-->
       <nav>
         <!--Replaced div with "nav" tag for links section-->
         <ul>
@@ -40,7 +44,11 @@
       />
       <section class="services">
         <!--Replaced div tag with semantic section tag. Renamed class "content" to "services" to better describe the contents of this section-->
-        <section class="search-engine-optimization">
+        <section
+          class="search-engine-optimization"
+          id="search-engine-optimization"
+        >
+          <!--Added ID tag to fix nonfunctional link in nav section-->
           <img
             src="./assets/images/search-engine-optimization.jpg"
             class="float-left"

@@ -4,6 +4,8 @@
   margin: 0;
 }
 
+/*Element Selector Rulesets*/
+
 body {
   background-color: #d9dcd6;
 }
@@ -21,13 +23,8 @@ header h1 {
   font-size: 48px;
 }
 
-.seo {
-  /*removed header and h1 tags from this ruleset to properly format header*/
-  color: #d9dcd6;
-}
-
 header nav {
-  /*Rmoved div tags from elements in header and applied "nav" tab to the links specficially*/
+  /*Removed div tags from elements in header and applied "nav" tab to the links specficially*/
   padding-top: 15px;
   margin-right: 20px;
   float: right;
@@ -51,6 +48,13 @@ a {
 
 p {
   font-size: 16px;
+}
+
+/*class CSS Rulesets*/
+
+.seo {
+  /*removed header and h1 tags from this ruleset to properly format header*/
+  color: #d9dcd6;
 }
 
 .hero {
