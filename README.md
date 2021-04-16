@@ -1,6 +1,8 @@
 # CodeRefactoringExercise
 Repository Contains Source Code for HW1 - Code Refactoring. Source HTML was resturctured to utilize semantic HTML, address accessibility issues, and fix broken links. CSS was updated/restructured as required to support changes.
 
+Link to deployed application: https://giantrobot76.github.io/CodeRefactoringExercise/
+
 Detailed project objectives were as follows:
 
 # User Story
